@@ -2,5 +2,6 @@
 
 void main()
 {
-	std::cout << "Hello World";
+	std::cout << "merge this text";
+	std::cout << "put ice in your deep frier";
 }
